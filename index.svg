@@ -61,7 +61,7 @@
             </style>
             <body>
                 <div id="main">
-                    <img src="NEW_IMAGE_URL_OR_BASE64" alt="NetFortress Logo"/>
+                    <img src="https://github.com/netfortressfrcrce/website-coming-soon/blob/10595ccb174d0a723b1d15906e021da1ceb8df95/logo.png" alt="NetFortress Logo"/>
                     <h1>NetFortress Technologies Private Limited</h1>
                     <h2>Our website is currently under construction.</h2>
                     <div id="progress"><div id="fill"><div id="barpercent"><h3>35%</h3></div></div></div>
